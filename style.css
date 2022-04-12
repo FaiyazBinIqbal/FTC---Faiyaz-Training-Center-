@@ -1,0 +1,171 @@
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap");
+body {
+  background: #fff;
+  background-repeat: no-repeat;
+  /* overflow: scroll; */
+  font-family: "Josefin Sans", sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.container-l {
+  background: linear-gradient(135deg, #76d7c4 10%, #16a085 100%);
+  height: 544px;
+  width: 100%;
+  /* margin-left: -100px;
+    margin-top: -100px; */
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  margin-top: -6%;
+  margin-left: 57%;
+}
+li {
+  float: left;
+}
+li a {
+  display: block;
+  color: #fff;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 20px;
+}
+img {
+  margin-left: 10%;
+  margin-top: 1%;
+}
+.box-training {
+  height: 307px;
+  background: #e5e7e9;
+  width: 278px;
+  padding: 19px;
+  margin-top: -6%;
+  margin-left: 19%;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+}
+.box-employee {
+  height: 307px;
+  background: #4542e1;
+  width: 278px;
+  padding: 19px;
+  margin-top: -22%;
+  margin-left: 40%;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+  color: #fff;
+}
+#i1 {
+  color: #ffffff;
+  background: #6e6cd5;
+  padding: 19px;
+  font-size: 30px;
+  border-radius: 50%;
+}
+#i2 {
+  color: #ffffff;
+  background: #f2870d;
+  padding: 19px;
+  font-size: 30px;
+  border-radius: 50%;
+}
+.box-programming {
+  height: 307px;
+  background: #716fe0;
+  width: 278px;
+  padding: 19px;
+  margin-top: -22%;
+  margin-left: 61%;
+  color: #fff;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+}
+#i3 {
+  color: #ffffff;
+  background: #f2870d;
+  padding: 19px;
+  font-size: 30px;
+  border-radius: 50%;
+}
+.header {
+  font-size: 50px;
+  color: #fff;
+  margin-left: 10%;
+  margin-top: 7%;
+}
+.slogan {
+  font-size: 20px;
+  color: #fff;
+  margin-left: 10%;
+  margin-top: 3%;
+}
+.button-a {
+  background: #fff;
+  border: 2px solid #fff;
+  color: #16a085;
+  cursor: pointer;
+  padding: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  font-size: 19px;
+  margin-left: 10%;
+  transition: ease-in-out 0.3s;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.button-a:hover {
+  background: transparent;
+  border: 2px solid #fff;
+  color: #fff;
+  cursor: pointer;
+  padding: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  transition: ease-in-out 0.3s;
+  font-size: 19px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.button-c {
+  background: #fff;
+  border: 2px solid #fff;
+  color: #16a085;
+  cursor: pointer;
+  padding: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-left: 6px;
+  font-size: 19px;
+  transition: ease-in-out 0.3s;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.button-c:hover {
+  background: transparent;
+  border: 2px solid #fff;
+  color: #fff;
+  cursor: pointer;
+  padding: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  transition: ease-in-out 0.3s;
+  font-size: 19px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.pika {
+  margin-left: 60%;
+  margin-top: -22%;
+}
+.work {
+    margin-top: 6%;
+    padding: 10px;
+}
+.rty {
+    margin-left: 50%;
+    font-size: 30px;
+    margin-top: -30%;
+}
+.rtu {
+    margin-left: 36%;
+    font-size: 20px;
+    width: 60%;
+    margin-top: 2%;
+}
